@@ -1,5 +1,5 @@
 # Monster Rolodex
- My first react project 
+ My first react project, mostly focused on functionality not styling. 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
